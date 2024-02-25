@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: hsl(47, 88%, 63%);
+    
+}
+.container{
+    height: 500px;
+    width: 326px;
+    background-color: white;
+    margin: 0 auto;
+    border-radius: 17px;
+margin-top: 47px;
+padding-top: 17px;
+border: 5px solid black ;
+
+
+
+}
+.internal-box{
+    height: 474px;
+    width: 276px;
+    background-color: red;
+    text-align: center;
+    margin: 0 auto;
+
+}
+.img-wrapper img{
+   width: 100%;
+}
+.published-date span{
+background-color: hsl(47, 88%, 63%);
+font-weight: 500;
+margin-top: 15px;
+margin-right: 169px;
+border-radius: 2px;
+padding: 3px;
+
+}
