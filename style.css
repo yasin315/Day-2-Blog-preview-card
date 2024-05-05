@@ -12,7 +12,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-   flex-direction: column;
+   /* flex-direction: column; */
    font-family: "Figtree", sans-serif;
    font-optical-sizing: auto;
  
