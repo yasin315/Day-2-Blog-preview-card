@@ -29,8 +29,8 @@ body{
     
 }
 .internal-container{
-    
     padding: 20px; 
+    
 }
 /* .internal-box {
     margin: 1rem;
@@ -69,8 +69,7 @@ font-weight: 600;
 opacity: 0.5;
 }
 .author {
-    /* display: inline-block;
-   margin-right: 10px; */
+    
    display: flex;
    align-items: center;
    margin-top: 1rem;
